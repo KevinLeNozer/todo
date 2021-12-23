@@ -1,0 +1,27 @@
+body{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+#TODO{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+#button0,
+#button1,
+#button2,
+#btn_task{
+    width: 80px;
+    height: 20px;
+    border-radius: 6px;
+    background-color: #4AA8CC;
+    color: #fff;
+    box-shadow: 0px  6px #999999;
+}
